@@ -4,20 +4,12 @@ This repository contains practical implementations and projects for the Neural N
 
 ## Directory Structure
 
-- **P1**: Practical 1
-- **P2**: Practical 2
-- **P3**: Practical 3
-- **P4**: Practical 4
-- **P5**: Practical 5
-- **P6**: Practical 6
+- **P1**: Practical 1 - Perceptron
+- **P2**: Practical 2 - Activation Functions
+- **P3**: Practical 3 - Backpropagation
+- **P4**: Practical 4 - CNN
+- **P5**: Practical 5 - RNN
+- **P6**: Practical 6 - LSTM
 - **P7**: Practical 7 - Autoencoders (CNN & LSTM) with Streamlit App
 - **cia**: Continuous Internal Assessment related files
 
-## Getting Started
-
-Navigate to each directory to find specific notebooks and scripts for that practical.
-For P7, you can run the Streamlit app using:
-```bash
-cd P7
-streamlit run app.py
-```
